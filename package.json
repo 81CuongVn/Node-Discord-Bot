@@ -11,7 +11,7 @@
     "@sentry/tracing": "^6.5.1",
     "@tetracyl/erela.js": "^1.5.1",
     "anime-images-api": "^2.0.0",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bombsweeper.js": "^1.0.1",
     "bottleneck": "^2.19.5",
     "bufferutil": "^4.0.3",
